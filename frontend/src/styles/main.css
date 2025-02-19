@@ -1,0 +1,16 @@
+/* Existing CSS */
+
+@media (max-width: 768px) {
+  header nav ul {
+    flex-direction: column;
+  }
+
+  .gallery .photos img {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .banner, .events, .gallery, .council-info, .public-services, .news-announcements, .downloads, .contact-info, .community-engagement, .tourism-culture, .event-calendar, .interactive-maps, .accessibility-features, .search-functionality, .mobile-friendly, .admin-dashboard, .login, .register, .manage-users, .manage-events, .manage-news, .manage-documents, .manage-forms, .manage-surveys, .view-analytics {
+    padding: 10px;
+  }
+}
